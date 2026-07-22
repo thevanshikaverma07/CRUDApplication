@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|c:\\users\\vanshika\\source\\repos\\crudappusingado\\crudappusingado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|solutionrelative:crudappusingado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|c:\\users\\vanshika\\source\\repos\\crudappusingado\\crudappusingado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|solutionrelative:crudappusingado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|c:\\users\\vanshika\\source\\repos\\crudappusingado\\crudappusingado\\employeedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|solutionrelative:crudappusingado\\employeedataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|c:\\users\\vanshika\\source\\repos\\crudappusingado\\crudappusingado\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|solutionrelative:crudappusingado\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|c:\\users\\vanshika\\source\\repos\\crudappusingado\\crudappusingado\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|solutionrelative:crudappusingado\\connectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|c:\\users\\vanshika\\source\\repos\\crudappusingado\\crudappusingado\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|solutionrelative:crudappusingado\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|c:\\users\\vanshika\\source\\repos\\crudappusingado\\crudappusingado\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E95D033-E063-4335-AF17-CB4D1FD8E22D}|CRUDAppusingADO\\CRUDAppusingADO.csproj|solutionrelative:crudappusingado\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDAppusingADO\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUDAppusingADO\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-22T14:08:56.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUDAppusingADO\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CRUDAppusingADO\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-22T12:16:14.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDAppusingADO\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CRUDAppusingADO\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-22T11:53:57.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDAppusingADO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDAppusingADO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T08:39:18.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\EmployeeDataAccessLayer.cs",
+              "RelativeDocumentMoniker": "CRUDAppusingADO\\EmployeeDataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\EmployeeDataAccessLayer.cs",
+              "RelativeToolTip": "CRUDAppusingADO\\EmployeeDataAccessLayer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T08:03:05.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "CRUDAppusingADO\\Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\Models\\Employees.cs",
+              "RelativeToolTip": "CRUDAppusingADO\\Models\\Employees.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T07:55:44.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\ConnectionString.cs",
+              "RelativeDocumentMoniker": "CRUDAppusingADO\\ConnectionString.cs",
+              "ToolTip": "C:\\Users\\Vanshika\\source\\repos\\CRUDAppusingADO\\CRUDAppusingADO\\ConnectionString.cs",
+              "RelativeToolTip": "CRUDAppusingADO\\ConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T07:47:01.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
